@@ -1,6 +1,6 @@
 ## I'm beginner QA Engineer 
 
-[![Postman](https://img.shields.io/badge/-Postman_(click)-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/navigation-engineer-23958700/workspace/postman-collection)
+[![Postman](https://img.shields.io/badge/-Postman_collections_(click)-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/navigation-engineer-23958700/workspace/postman-collection)
 [![Docker](https://img.shields.io/badge/-Docker_(click)-090909?style=for-the-badge&logo=docker&logoColor=2496ED)](https://github.com/aleksey890/Docker)
 
 ### Socials:
