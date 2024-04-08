@@ -1,7 +1,6 @@
 ## I'm beginner QA Engineer 
 
-
-### Languages and Tools:
+<a href = "https://www.postman.com/navigation-engineer-23958700/workspace/postman-collection">Postman collection</a>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/alexey408)
