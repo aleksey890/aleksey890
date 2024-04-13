@@ -3,7 +3,7 @@
 ### Repositories:
 [![Postman](https://img.shields.io/badge/-Postman_collections-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)](https://www.postman.com/navigation-engineer-23958700/workspace/postman-collection)
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)](https://github.com/aleksey890/Docker)
-[![Checklists](https://img.shields.io/badge/-Checkmarx-090909?style=for-the-badge&logo=checkmarx&logoColor=2496ED)](https://github.com/aleksey890/Checklist)
+[![Checklists](https://img.shields.io/badge/-Checklists-090909?style=for-the-badge&logo=checkmarx&logoColor=2496ED)](https://github.com/aleksey890/Checklist)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/alexey408)
